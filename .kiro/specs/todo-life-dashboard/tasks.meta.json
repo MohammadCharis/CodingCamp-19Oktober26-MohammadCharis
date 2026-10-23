@@ -1,0 +1,242 @@
+{
+  "pbtResults": {
+    "3.3 Write property tests for greeting phrase (Properties 1, 2, 3)": {
+      "status": "passed",
+      "lastRunTimestamp": 1792755848031
+    }
+  },
+  "executionHistory": {
+    "1. Scaffold project structure and base HTML": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753951079
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753966445
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792754164522
+      }
+    ],
+    "2.1 Create `css/style.css` with CSS custom properties for all theme colors (light palette) and a `[data-theme=\"dark\"]` block overriding them": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753953075
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792754172234
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755409829
+      }
+    ],
+    "2.2 Add responsive two-column layout": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753953626
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755417254
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755509556
+      }
+    ],
+    "3.1 Create `js/script.js` IIFE skeleton and implement the `// greeting` section": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753953733
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792754180594
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755410608
+      }
+    ],
+    "3.2 Implement `getGreetingPhrase(hour, name)` and `updateGreeting()`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753953926
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755423826
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755510074
+      }
+    ],
+    "4.1 Implement the `// name` section — Name_Form show/hide and persistence": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954004
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755516783
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755626392
+      }
+    ],
+    "4.2 Implement the `// theme` section — Theme_Toggle logic": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954071
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755522696
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755626479
+      }
+    ],
+    "5.1 Implement the `// timer` section": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954141
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755872647
+      }
+    ],
+    "6.1 Implement task data layer — `loadTasks()`, `saveTasks()`, and `isDuplicate()`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954294
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755878790
+      }
+    ],
+    "6.2 Implement `renderTaskList(tasks)` and task display": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954364
+      }
+    ],
+    "6.3 Implement `addTask(text)`, `deleteTask(id)`, and `toggleTask(id)`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954438
+      }
+    ],
+    "6.5 Implement `startEdit(id)`, `saveEdit(id, text)`, and `cancelEdit(id)`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954505
+      }
+    ],
+    "7. Checkpoint — Core widgets functional": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954566
+      }
+    ],
+    "8.1 Implement link data layer — `loadLinks()` and `saveLinks()`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954702
+      }
+    ],
+    "8.2 Implement `normaliseUrl(url)`, `renderLinkList(links)`, `addLink(name, url)`, and `removeLink(id)`": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954773
+      }
+    ],
+    "9.1 Connect all init calls in `DOMContentLoaded` listener": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954864
+      }
+    ],
+    "10. Final checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792753954923
+      }
+    ],
+    "2. Implement CSS foundation and layout": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755509692
+      }
+    ],
+    "3. Implement Greeting Card widget": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755510173
+      }
+    ],
+    "4. Implement Name Form and Theme Toggle": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755650868
+      }
+    ],
+    "3.3 Write property tests for greeting phrase (Properties 1, 2, 3)": [
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755683642
+      },
+      {
+        "executionId": "f111c09a-6ea7-464d-972e-2055b902c23d",
+        "chatSessionId": "sess_e91bab79-7428-4824-88b3-ef18a3d5ce69",
+        "timestamp": 1792755866170
+      }
+    ]
+  }
+}
